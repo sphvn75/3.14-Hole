@@ -1,0 +1,12 @@
+nrdp52-appboot.netflix.com
+cdn-0.nflximg.com
+ichnaea.netflix.com
+customerevents.netflix.com
+uiboot.netflix.com
+secure.netflix.com
+api-global.netflix.com
+nrdp.prod.cloud.netflix.com
+nrdp-cell4.prod.ftl.netflix.com
+nrdp.nccp.netflix.com
+nrdp51-appboot.netflix.com
+logs.netflix.com
