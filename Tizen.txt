@@ -1,0 +1,12 @@
+0.0.0.0 nrdp52-appboot.netflix.com
+0.0.0.0 cdn-0.nflximg.com
+0.0.0.0 ichnaea.netflix.com
+0.0.0.0 customerevents.netflix.com
+0.0.0.0 uiboot.netflix.com
+0.0.0.0 secure.netflix.com
+0.0.0.0 api-global.netflix.com
+0.0.0.0 nrdp.prod.cloud.netflix.com
+0.0.0.0 nrdp-cell4.prod.ftl.netflix.com
+0.0.0.0 nrdp.nccp.netflix.com
+0.0.0.0 nrdp51-appboot.netflix.com
+0.0.0.0 logs.netflix.com
