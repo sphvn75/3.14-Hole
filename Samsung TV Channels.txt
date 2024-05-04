@@ -150,14 +150,14 @@ dxf5a81j1oc3i.cloudfront.net
 dyc8bdiow0oz1.cloudfront.net
 
 #Wurl TV (RegEx Value only)
-\.samsung\.wurl\.tv
-\.wurl\.com
+(\.|^).samsung\.wurl\.tv
+(\.|^).wurl\.com
 
 #Amagi TV
-\.amagi\.tv
+(\.|^).amagi\.tv
 
 #Pluto TV
-\.pluto\.tv
+(\.|^).pluto\.tv
 \.plutotv\.net
 
 #Samsung Cloud .TV
