@@ -32,7 +32,7 @@ prd-security-care-service-nlb01-c1cef203eeb92ce3.elb.us-east-1.amazonaws.com
 tcs-awss3-gra-fastch.akamaized.net
 tvplus-cdn.www.funke.video
 tvplus-cdn.www.funke.video.edgesuite.net
-tvpndynamiclogopeu.
+tvpndynamiclogopeu.com
 tvx.adgrx.com
 tvx.adgrx.com.tech.akadns.net
 viacomcbs.map.fastly.net
@@ -150,16 +150,16 @@ dxf5a81j1oc3i.cloudfront.net
 dyc8bdiow0oz1.cloudfront.net
 
 #Wurl TV (RegEx Value only)
-(\.|^).samsung\.wurl\.tv
-(\.|^).wurl\.com
+(\.|^).samsung\.wurl\.tv$
+(\.|^).wurl\.com$
 
 #Amagi TV
-(\.|^).amagi\.tv
+(\.|^).amagi\.tv$
 
 #Pluto TV
-(\.|^).pluto\.tv
-\.plutotv\.net
+(\.|^).pluto\.tv$
+(\.|^).plutotv\.net$
 
 #Samsung Cloud .TV
 
-\.samsungcloud\.tv
+(\.|^).samsungcloud\.tv$
